@@ -25,4 +25,4 @@ This tool streamlines the process of working with tabular data stored in PDF doc
 5. The script will extract, clean, and convert the data, saving it as `output.csv` and `output.xlsx`.
 
 ## Author
-Eunice Magk
+Eunice Magak
